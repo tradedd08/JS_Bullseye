@@ -9,6 +9,8 @@ function setup() {
   drawTwo();
 }
 
+// Im here
+
 function drawTwo() {
   // First setting the stroke of all ellipses to black.
   stroke(color('black'));
